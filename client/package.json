@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mohammedsalick.github.io/FestFusion",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,6 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://mohammedsalick.github.io/FestFusion",
   "dependencies": {
     "axios": "^1.7.7",
     "framer-motion": "^11.9.0",
