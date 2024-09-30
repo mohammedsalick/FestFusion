@@ -2,15 +2,18 @@
 College Event Management Platform
 
 
-![image](https://github.com/user-attachments/assets/963b158d-0cbc-4ab2-84af-69d0ee90ff24)
+![image](https://github.com/user-attachments/assets/69cdf344-6da5-40bc-8e54-65d232078e5c)
 
-![image](https://github.com/user-attachments/assets/b10c5d54-f98c-4481-90f9-da93a7809bbb)
+![image](https://github.com/user-attachments/assets/6f94f2ad-b5bf-46d0-9bc3-18ca00b82c60)
 
-![image](https://github.com/user-attachments/assets/f02039f2-c33c-47bc-a002-958af4523230)
+![image](https://github.com/user-attachments/assets/512cffcc-3c1a-4648-8b84-1c2238d57104)
 
-![image](https://github.com/user-attachments/assets/80f5c96e-27bf-4de6-bd11-9bc9e453d56a)
+![image](https://github.com/user-attachments/assets/ca41fdc2-426e-4fb9-b8df-52b41d3b923b)
 
-![image](https://github.com/user-attachments/assets/f2d00b11-b135-4d7c-834f-5180d8eb7544)
+![image](https://github.com/user-attachments/assets/ace18716-d63c-491b-b102-bc4f8bd8e9a0)
+
+
+
 
 
 
